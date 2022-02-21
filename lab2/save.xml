@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <student>
+    <name xmlns="STUDENTS">Артем Елизавета Владимировна</name>
+    <age xmlns="STUDENTS">19</age>
+    <prof xmlns="STUDENTS">ПОИТ</prof>
+    <birthday xmlns="STUDENTS">22.01.2003 2:22:04</birthday>
+    <course xmlns="STUDENTS">2</course>
+    <group xmlns="STUDENTS">6</group>
+    <avgG xmlns="STUDENTS">6</avgG>
+    <sex xmlns="STUDENTS">Ж</sex>
+    <adress xmlns="STUDENTS">
+      <city>Минск</city>
+      <index>220125</index>
+      <street>Шаф</street>
+      <house>3</house>
+      <apartment>95</apartment>
+    </adress>
+    <company xmlns="STUDENTS">
+      <company>-</company>
+      <post>-</post>
+      <exp>0</exp>
+    </company>
+  </student>
+</ArrayOfStudent>
