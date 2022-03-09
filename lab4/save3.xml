@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <student>
+    <name xmlns="STUDENTS">Артем Елизавета Владимировна</name>
+    <age xmlns="STUDENTS">19</age>
+    <prof xmlns="STUDENTS">ПОИТ</prof>
+    <birthday xmlns="STUDENTS">22.01.2003 2:22:04</birthday>
+    <course xmlns="STUDENTS">2</course>
+    <group xmlns="STUDENTS">6</group>
+    <avgG xmlns="STUDENTS">6</avgG>
+    <sex xmlns="STUDENTS">Ж</sex>
+    <adress xmlns="STUDENTS">
+      <city>Минск</city>
+      <index>220125</index>
+      <street>Шаф</street>
+      <house>3</house>
+      <apartment>95</apartment>
+    </adress>
+    <company xmlns="STUDENTS">
+      <company>-</company>
+      <post>-</post>
+      <exp>0</exp>
+    </company>
+  </student>
+  <student>
+    <name xmlns="STUDENTS">Аа Бб Вв</name>
+    <age xmlns="STUDENTS">15</age>
+    <prof xmlns="STUDENTS">ПОИТ</prof>
+    <birthday xmlns="STUDENTS">23.02.2007 2:25:30</birthday>
+    <course xmlns="STUDENTS">1</course>
+    <group xmlns="STUDENTS">4</group>
+    <avgG xmlns="STUDENTS">6.6</avgG>
+    <sex xmlns="STUDENTS">М</sex>
+    <adress xmlns="STUDENTS">
+      <city>Аа</city>
+      <index>220125</index>
+      <street>Аа</street>
+      <house>5</house>
+      <apartment>2</apartment>
+    </adress>
+    <company xmlns="STUDENTS">
+      <company>-</company>
+      <post>-</post>
+      <exp>4</exp>
+    </company>
+  </student>
+  <student>
+    <name xmlns="STUDENTS">Гг Дд Ее</name>
+    <age xmlns="STUDENTS">15</age>
+    <prof xmlns="STUDENTS">ДЭИВИ</prof>
+    <birthday xmlns="STUDENTS">23.02.2007 2:25:30</birthday>
+    <course xmlns="STUDENTS">3</course>
+    <group xmlns="STUDENTS">5</group>
+    <avgG xmlns="STUDENTS">5.7</avgG>
+    <sex xmlns="STUDENTS">М</sex>
+    <adress xmlns="STUDENTS">
+      <city>Гг</city>
+      <index>220125</index>
+      <street>Гг</street>
+      <house>2</house>
+      <apartment>3</apartment>
+    </adress>
+    <company xmlns="STUDENTS">
+      <company>-</company>
+      <post>-</post>
+      <exp>5</exp>
+    </company>
+  </student>
+   <student>
+    <name xmlns="STUDENTS">Жж Зз Ии</name>
+    <age xmlns="STUDENTS">15</age>
+    <prof xmlns="STUDENTS">ДЭИВИ</prof>
+    <birthday xmlns="STUDENTS">23.02.2007 2:25:30</birthday>
+    <course xmlns="STUDENTS">4</course>
+    <group xmlns="STUDENTS">7</group>
+    <avgG xmlns="STUDENTS">7.2</avgG>
+    <sex xmlns="STUDENTS">М</sex>
+    <adress xmlns="STUDENTS">
+      <city>Жж</city>
+      <index>220125</index>
+      <street>Жж</street>
+      <house>2</house>
+      <apartment>3</apartment>
+    </adress>
+    <company xmlns="STUDENTS">
+      <company>-</company>
+      <post>-</post>
+      <exp>6</exp>
+    </company>
+  </student>
+</ArrayOfStudent>
